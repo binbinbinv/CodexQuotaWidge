@@ -1,0 +1,2 @@
+# CodexQuotaWidge
+在windows任务栏实时显示你的codex余量，前提是你要安装桌面端的codex并打开
